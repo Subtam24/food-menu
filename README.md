@@ -1,2 +1,1 @@
-# food-menu
-menu
+menu.html
